@@ -1,0 +1,24 @@
+{
+    "name": "cordova-plugin-nfcscanner",
+    "version": "1.0.0",
+    "description": "A Cordova plugin for reading NFC tags on Android devices.",
+    "license": "MIT",
+    "keywords": [
+      "cordova",
+      "plugin",
+      "nfc",
+      "scanner"
+    ],
+    "author": "Juntao Cheng <stcheng_msft@hotmail.com>",
+    "engines": {
+      "cordova": ">=10.0.0"
+    },
+    "dependencies": {},
+    "cordova": {
+      "id": "cordova-plugin-nfcscanner",
+      "platforms": [
+        "android"
+      ]
+    }
+  }
+  
